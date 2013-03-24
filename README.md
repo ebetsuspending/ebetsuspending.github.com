@@ -23,6 +23,9 @@ Core Team: (@は Twitter Account)
 西林　孝(Takashi Nishibayashi), @hagino3000 (Developer)
 藤村　良弘(Fujimura Yoshihiro), Facebook:Fujimura Yoshihiro (Policy Analyst)
 
+江別市版
+
+鈴木　祐亮(Yusuke Suzuki), @yuskesuzki
 
 このソースコードは、Open Definition(http://opendefinition.org/) の定義に沿っていれば、どなたでも利用、改変、及び再配布が可能です。
 http://qiita.com/items/38c186efbd272ef59121
