@@ -10,8 +10,8 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'ebetsu_budget';
-OpenSpending.year = '2013';
+OpenSpending.identifier = 'ebetsu_budget_2014';
+OpenSpending.year = '2014';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
@@ -64,4 +64,3 @@ OpenSpending.Styles.Cofog = {
   '13': { icon: 'icons/water.svg', color: '#E05D11', bcolor: '#790586' },
   '13-1': { icon: 'icons/water.svg', color: '#E05D11', bcolor: '#790586' },
 };
-
